@@ -8,6 +8,10 @@ This project implements a **Multi-Agent Workflow** that leverages AI to conduct 
 - **Use Case Proposals**: Provides relevant AI use cases tailored for the selected industry.
 - **CSV Output**: Saves research results in CSV format for further analysis.
 - **Interactive User Interface**: Built using Streamlit for easy navigation and interaction.
+##Features
+##Industry research
+##Result summarization
+##CSV export
 
 ## 🚀 Live App
 

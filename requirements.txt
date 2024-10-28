@@ -1,5 +1,36 @@
 streamlit
 pandas
 numpy
-matplotlib
-# Add any other necessary packages
+
+# Core packages
+pandas==2.0.3                 # Data manipulation and CSV operations
+requests==2.31.0              # API requests
+
+# Web application framework
+streamlit==1.25.0             # Building and deploying the app interface
+
+# AI and Language Models
+openai==0.27.10               # For OpenAI API access
+langchain==0.0.284            # Language models and agent chains
+llama-index==0.6.29           # For efficient document and LLM indexing
+
+# Additional Generative AI and ML Libraries
+openagi                        # Placeholder: verify installation if this library exists in PyPI
+beyondllm                      # Placeholder: verify installation if this library exists in PyPI
+autogen                        # Placeholder: verify installation if this library exists in PyPI
+
+# Optional: For environment variables
+python-dotenv==1.0.0          # For loading environment variables from .env files
+
+# Optional: Data visualization (if needed for analysis within the app)
+matplotlib==3.8.0             # Plotting library for visualizations
+seaborn==0.12.2               # Statistical data visualization
+
+# Optional: NLP tools for text processing
+nltk==3.8.0                   # Natural language processing toolkit
+
+# Optional: For creating flowcharts or diagrams programmatically
+graphviz==0.20.1              # Graph visualization (if flowchart generation is needed)
+
+# Optional: For encryption/security
+pycryptodome==3.18.0          # For encryption if handling sensitive data

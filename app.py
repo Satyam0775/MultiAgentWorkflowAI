@@ -4,8 +4,8 @@ import pandas as pd
 import streamlit as st
 
 # Set API keys
-os.environ['OPENAI_API_KEY'] = 'AIzaSyC8tIrUlJcCRnyksbykluUZVvER6ynHQeI'
-os.environ['SERPAPI_API_KEY'] = '533b5ecf4f322a3e1fb6c6341fc922267805add7e804f7783949a17175ed2f69'
+os.environ['OPENAI_API_KEY'] = ''
+os.environ['SERPAPI_API_KEY'] = ''
 
 # Define the directory to save CSV files
 SAVE_DIR = r'C:\Users\satya\DeloitteResearchAgent'  # Absolute directory to save CSV files

@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+matplotlib
+# Add any other necessary packages

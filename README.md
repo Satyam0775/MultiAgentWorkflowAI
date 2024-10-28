@@ -2,6 +2,9 @@
 
 This project implements a **Multi-Agent Workflow** that leverages AI to conduct industry research and propose relevant use cases for organizations, specifically focusing on **AI Applications in Automotive Manufacturing**.
 
+## Architecture Flowchart
+![Architecture Flowchart](flowchart/architecture.png)
+
 ## 🛠️ Features
 
 - **Industry Research**: Gathers information on industry trends and standards using APIs.

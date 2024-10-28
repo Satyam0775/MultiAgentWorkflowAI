@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 # Set your SerpAPI key
-API_KEY = "533b5ecf4f322a3e1fb6c6341fc922267805add7e804f7783949a17175ed2f69"
+API_KEY = ""
 BASE_URL = "https://serpapi.com/search"
 
 def research_company(company_name):
